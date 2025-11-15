@@ -1,0 +1,23 @@
+{
+  "name": "git-branch-webpack-plugin",
+  "version": "0.1.0",
+  "description": "Webpack plugin that injects the current git branch name",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geckofree/git-branch-webpack-plugin.git"
+  },
+  "keywords": ["webpack", "plugin", "git", "branch"],
+  "author": "geckofree",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geckofree/git-branch-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/geckofree/git-branch-webpack-plugin#readme",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
